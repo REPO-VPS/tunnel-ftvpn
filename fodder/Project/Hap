@@ -1,3 +1,4 @@
+#has global
 global
         tune.ssl.default-dh-param 2048
         tune.h2.initial-window-size 2147483647
